@@ -15,13 +15,7 @@ public class DemoApplicationTests {
 
 	@Autowired
 	DemoController demoController;
-	
-	
-	@Test
-	public void contextLoads() throws UnsupportedOperationException{
-	}
 
-	
 	@Test
 	public void exampleTest()
 	{
